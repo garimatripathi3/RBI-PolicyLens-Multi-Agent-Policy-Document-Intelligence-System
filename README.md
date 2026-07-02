@@ -1,4 +1,4 @@
-# PolicyLens — Multi-Agent Document Intelligence (Starter Scaffold)
+# PolicyLens — Multi-Agent Document Intelligenc
 
 A 4-agent platform for question-answering over policy documents. Complete,
 working implementation: four agents, hybrid retrieval (BM25 + dense + RRF +
