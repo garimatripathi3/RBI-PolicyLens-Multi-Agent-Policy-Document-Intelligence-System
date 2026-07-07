@@ -63,7 +63,7 @@ make test
 Run in Docker:
 
 ```bash
-cp .env.example .env
+
 make docker-up
 ```
 
